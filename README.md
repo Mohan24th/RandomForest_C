@@ -137,6 +137,6 @@ project/
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 Developed as a Machine Learning project using Random Forest Classification and Streamlit deployment.
